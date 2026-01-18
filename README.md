@@ -1,7 +1,7 @@
-#Laboratório de Eletrônica
+# Laboratório de Eletrônica
 
-##Laboratório de estudos
+## Laboratório de estudos
 
     Estudo de diodos
 
-##Laboratório de projetos
+## Laboratório de projetos
