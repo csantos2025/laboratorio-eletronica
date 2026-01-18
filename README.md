@@ -3,6 +3,6 @@
 ## Laboratório de estudos
 
 - Estudo de diodos
-- Estudo de transistor
+- Estudo de transistores
 
 ## Laboratório de projetos
