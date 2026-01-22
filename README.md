@@ -2,7 +2,8 @@
 
 ## Laboratório de estudos
 
-- Estudo de diodos (./laboratorio-estudos/diodos/diodos.md)
+- Estudo de diodos[Estudo de Diodos](./laboratorio-estudos/diodos/diodos.md)
+>>>>>>> estudo-diodos
 
 - Estudo de transistores
 
