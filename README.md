@@ -9,3 +9,5 @@ Este laboratório tem como objetivo principal evidenciar o estudo e aprendizado 
 - Estudo de transistores
 
 ## Laboratório de projetos
+
+Este laboratório prevê a execução de projetos não necessariamente vinculados ao laboratório de estudos. Trata-se de projetos maiores, descontextualizados em relação ao laboratório de estudos.
