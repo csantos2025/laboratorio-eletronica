@@ -10,4 +10,4 @@ Este laboratório tem como objetivo principal evidenciar o estudo e aprendizado 
 
 ## Laboratório de projetos
 
-Este laboratório prevê a execução de projetos não necessariamente vinculados ao laboratório de estudos. Trata-se de projetos maiores, descontextualizados em relação ao laboratório de estudos.
+Este laboratório prevê a execução de projetos não necessariamente vinculados ao laboratório de estudos. Trata-se de projetos maiores, descontextualizados em relação ao laboratório de estudos. O objetivo maior deste laboratório é documentar a evolução profissional do autor, através da execução de projetos cada vez mais complexos.
