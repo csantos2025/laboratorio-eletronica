@@ -4,7 +4,7 @@ Este laboratório tem como objetivo principal evidenciar o estudo e aprendizado 
 
 ## Laboratório de estudos
 
-- Estudo de diodos[Estudo de Diodos](laboratorio-estudos/estudo-diodos/diodos.md)
+- Estudo de diodos[Estudo de Diodos](diodos.md)
 
 - Estudo de transistores
 
