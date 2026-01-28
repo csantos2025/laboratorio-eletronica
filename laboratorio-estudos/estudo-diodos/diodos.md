@@ -1,3 +1,18 @@
-# Estudo de diodos
+## Estudo de diodos
 
 O objetivo deste laboratório é consolidar conhecimentos sobre diodos, principalmente aqueles relativos à junção PN. O objetivo principal, além do entendimento sobre o comportamento do componente, é o aprofundamento das questões, teóricas e práticas, que favorecerão o aprendizado de transistores. 
+
+O objetivo deste laboratório é consolidar conhecimentos sobre diodos, principalmente aqueles relativos à junção PN. O objetivo principal, além do entendimento sobre o comportamento do componente, é o aprofundamento das questões teóricas que favorecerão o aprendizado de transistores. 
+
+No âmbito da eletrônica moderna os diodos semicondutores são caraterizados como componentes não lineares. Isso quer dizer que os valores das tensões e correntes de entrada, não são diretamente proporcionais às correntes e tensões de saída como acontece em um componente linear, como o resistor, indutor, ou capacitor. Basicamente, o que caracteriza um componente não linear é que a variação da corrente circulando através do componente não é proporcional à tensão aplicada; isso que dizer que, no caso do diodo, a corrente pode ser bloqueada mesmo com aplicação de tensão de entrada, como acontece na polarização reversa; e ainda, que o diodo pode simplesmente não conduzir até que seja ultrapassado o limite mínimo da Vf. Estas propriedades do diodo podem ser observadas através do gráfico I x V representado por uma curva exponencial.
+
+Este comportamento específico é ocasionado pela constituição interna que o caracteriza; portanto, o comportamento do diodo semicondutor de junção PN, brevemente descrito no parágrafo anterior deve ser procurado nas propriedades do material semicondutor utilizado na sua fabricação, e também na junção PN.
+
+# Sólido cristalino e junção PN
+
+A junção PN, constituída através da dopagem do cristal de silício, por substâncias trivalentes (junção P), e pentavalentes, (junção N), apresenta a mesma continuidade estrutural do cristal de silício, constituindo um cristal único (monocristalino), onde a estrutura atômica (o “grid” de átomos) é contínua.
+
+Como a rede cristalina é continua, os elétrons e lacunas movimentam-se facilmente respeitando as leis que regem os campos elétricos formados, através da distribuição eletrostática das cargas no cristal de silício. Impurezas trivalentes são distribuídas em uma região do cristal, vindo a formar uma região do tipo P, na qual as lacunas são os portadores majoritários de carga; e impurezas pentavalentes são distribuídas em uma outra região do cristal, formando a região do tipo N, na qual os portadores majoritários de carga são os elétrons. A região de contato entre essas duas áreas é a junção PN.
+
+A junção PN constitui uma interface física, sujeita às regras de equilíbrio eletrostático, onde ocorre a chamada recombinação de cargas, que seria a atração de elétrons das impurezas pentavalentes em direção às lacunas, criando um potencial negativo na região P da interface, e um um potencial positivo na região N, devido a perda de elétron e liberação de forças eletrostáticas do núcleo dos átomos das impurezas. Na região da junção - também chamada de barreira de depleção -, com o componente desenergizado, não há a troca de elétrons da rede cristalina; há sim o equilíbrio eletrostático de íons fixos causado pela recombinação das cargas opostas distribuidas na região da junção. Toda movimentação de cargas que poderia haver gerou uma barreira de potencial, caracterizada por equilíbrio térmico e eletrostático, que faz da barreira de depleção uma região de alta resistência, isolada através da geração de um campo elétrico concentrado pela  disposição estáticas dessas cargas.
+
