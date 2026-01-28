@@ -1,4 +1,4 @@
-## Estudo de diodos
+# Estudo de diodos
 
 O objetivo deste laboratório é consolidar conhecimentos sobre diodos, principalmente aqueles relativos à junção PN. O objetivo principal, além do entendimento sobre o comportamento do componente, é o aprofundamento das questões, teóricas e práticas, que favorecerão o aprendizado de transistores. 
 
@@ -8,7 +8,7 @@ No âmbito da eletrônica moderna os diodos semicondutores são caraterizados co
 
 Este comportamento específico é ocasionado pela constituição interna que o caracteriza; portanto, o comportamento do diodo semicondutor de junção PN, brevemente descrito no parágrafo anterior deve ser procurado nas propriedades do material semicondutor utilizado na sua fabricação, e também na junção PN.
 
-# Sólido cristalino e junção PN
+## Sólido cristalino e junção PN
 
 A junção PN, constituída através da dopagem do cristal de silício, por substâncias trivalentes (junção P), e pentavalentes, (junção N), apresenta a mesma continuidade estrutural do cristal de silício, constituindo um cristal único (monocristalino), onde a estrutura atômica (o “grid” de átomos) é contínua.
 
