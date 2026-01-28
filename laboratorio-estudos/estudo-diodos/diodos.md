@@ -1,12 +1,10 @@
 # Estudo de diodos
 
-O objetivo deste laboratório é consolidar conhecimentos sobre diodos, principalmente aqueles relativos à junção PN. O objetivo principal, além do entendimento sobre o comportamento do componente, é o aprofundamento das questões, teóricas e práticas que favorecerão, futuramente, o aprendizado de transistores. 
-
-O objetivo deste laboratório é consolidar conhecimentos sobre diodos, principalmente aqueles relativos à junção PN. O objetivo principal, além do entendimento sobre o comportamento do componente, é o aprofundamento das questões teóricas que favorecerão o aprendizado de transistores. 
+O objetivo deste laboratório é consolidar conhecimentos sobre diodos, principalmente aqueles relativos à junção PN. O objetivo principal, além do entendimento sobre o comportamento do componente, é o aprofundamento das questões teóricas e práticas, que favorecerão o aprendizado de transistores no próximo laboratório. 
 
 No âmbito da eletrônica moderna os diodos semicondutores são caraterizados como componentes não lineares. Isso quer dizer que os valores das tensões e correntes de saída, não são diretamente proporcionais às correntes e tensões de entrada, como acontece em um componente linear. Basicamente, o que caracteriza um componente não linear é que a variação da corrente circulando através do componente não é proporcional à tensão aplicada; isso que dizer que, no caso do diodo, a corrente pode ser bloqueada mesmo com aplicação de tensão de entrada, como acontece na polarização reversa; e ainda, que o diodo pode simplesmente não conduzir até que seja ultrapassado o limite mínimo da Vf. Estas propriedades do diodo podem ser observadas através do gráfico I x V representado por uma curva exponencial. ![Gráfico I x V diodo 1N4007](curva_VI_diodo.png)
 
-Este comportamento específico é ocasionado pela constituição interna que o caracteriza; portanto, o comportamento do diodo semicondutor de junção PN, brevemente descrito no parágrafo anterior deve ser procurado nas propriedades do material semicondutor utilizado na sua fabricação, e também na junção PN.
+Este comportamento específico é ocasionado pela constituição interna que o caracteriza; portanto, o comportamento do **diodo semicondutor de junção PN**, brevemente descrito no parágrafo anterior deve ser procurado nas propriedades do material semicondutor utilizado na sua fabricação, e também na junção PN.
 
 ## Sólido cristalino e junção PN
 
